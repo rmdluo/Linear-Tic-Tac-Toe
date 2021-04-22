@@ -1,0 +1,9 @@
+What is this?
+
+It's a 6x6 tic tac toe where you can also use 2 linear alegbra moves.
+
+The linear algebra moves can be selected on the side, and they will manipulate a 2x2 matrix of your choosing. You choose what matrix you want to manipulate using the column and row of the top left corner of the matrix that you want to manipulate.
+
+The two linear algebra moves transpose or swap the rows of the 2x2 matrix.
+
+Everything else is the same as normal tic tac toe.
