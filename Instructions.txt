@@ -1,3 +1,5 @@
+Download the code by clicking the code button and then download zip
+
 What is this?
 
 It's a 6x6 tic tac toe where you can also use 2 linear alegbra moves.
